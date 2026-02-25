@@ -1,7 +1,7 @@
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode; // eslint-disable-line no-undef
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en">

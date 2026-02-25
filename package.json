@@ -8,9 +8,9 @@
     "start:custom": "node server.mjs"
   },
   "dependencies": {
-    "next": "^15",
-    "react": "^19",
-    "react-dom": "^19"
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
   },
   "devDependencies": {
     "@types/node": "^22",

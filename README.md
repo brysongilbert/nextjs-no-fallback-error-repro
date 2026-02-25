@@ -90,6 +90,6 @@ This is fragile — it relies on string matching against an internal error name 
 
 ## Environment
 
-- Next.js: 15.5.12
+- Next.js: 16.1.6
 - Node.js: 22.x
 - OS: macOS / Linux
